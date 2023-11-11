@@ -19,4 +19,3 @@ References and Resources:
 - tailwind: https://v2.tailwindcss.com/docs
 - vite: https://vitejs.dev/guide/
 - dotenv, cors, MERN installation and packages from chatGTP
-- tutorial: https://www.youtube.com/watch?v=EyIvuigqDoA
