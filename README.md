@@ -1,4 +1,4 @@
-# DALL-E clone: 2 Page application
+# DALL-E clone: 2 Page Application
 ### HomePage:
 ![Screenshot from 2023-11-14 15-03-08](https://github.com/AkashKamatCreates/dalleclone/assets/100783004/8bd6e65a-bbb8-4871-947f-faa80009be1b)
 
